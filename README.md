@@ -8,14 +8,18 @@
 
 ------------------
 
-사용 언어: Python
+## 스펙
+### 환경
+- Python 3
 
-사용 라이브러리: Tweepy
+### 라이브러리
+- [Tweepy](https://github.com/tweepy/tweepy)
+- [Flask](https://github.com/pallets/flask)
+- [SQLAlchemy](https://github.com/zzzeek/sqlalchemy)
 
-TODO: 
-
-- Web 구현 ( )
-- Twitter Stream Reader 구현 ( )
-- Web - Twitter Stream Reader 구현 ( )
-- README에 사용 방법 작성 ( )
+## TODO
+- [ ] Web 구현
+- [ ] Twitter Stream Reader 구현
+- [ ] Web - Twitter Stream Reader 구현
+- [ ] README에 사용 방법 작성
 
