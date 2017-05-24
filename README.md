@@ -1,5 +1,7 @@
 # Twitter Memo Web-Application
 
+![Between Twitter and Real Life](images/banners_JPG_500X200_300dpi.jpg)
+
 ## 트위터에서 한 메모만 모아서 보자!
 
 트위터에서 한 메모, 마음을 찍어놔도 찾기 어려웠죠.
