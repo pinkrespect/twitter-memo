@@ -1,4 +1,6 @@
-# Twitter Memo Web-Application
+<h1 align=center>
+  <img alt="Between Twitter and Real Life" src="images/banners_JPG_500X200_300dpi.jpg">
+</h1>
 
 ![Between Twitter and Real Life](images/banners_JPG_500X200_300dpi.jpg)
 
