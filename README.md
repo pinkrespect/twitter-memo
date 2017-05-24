@@ -26,8 +26,6 @@
 - [ ] README에 사용 방법 작성
 
 ## Contributors
-artist_DALVIN
-
-[JungWinter](https://github.com/JungWinter)
-
-[Maisie](https://github.com/pinkrespect)
+- artist_DALVIN
+- [@JungWinter](https://github.com/JungWinter)
+- [@Maisie](https://github.com/pinkrespect)
