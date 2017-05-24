@@ -1,6 +1,9 @@
-# Twitter Memo Web-Application
+<h1 align=center>
+  <img alt="Between Twitter and Real Life" src="images/banners_JPG_500X200_300dpi.jpg">
+</h1>
 
-![Between Twitter and Real Life](images/banners_JPG_500X200_300dpi.jpg)
+# Twitter Memo Web-Application
+![MIT-License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## 트위터에서 한 메모만 모아서 보자!
 
