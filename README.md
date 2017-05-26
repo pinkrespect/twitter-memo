@@ -1,5 +1,5 @@
 <h1 align=center>
-  <img alt="Between Twitter and Real Life" src="images/banners_JPG_500X200_300dpi.jpg">
+  <img alt="Between Twitter and Real Life" src="images/banners_PNG_1500X600.png">
 </h1>
 
 # Twitter Memo Web-Application
